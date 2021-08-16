@@ -1,0 +1,111 @@
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+:root {
+ --system_color: #FE0D66;
+ --system_background: #F4FAFF;
+ --feature_background: #FCF3F4;
+ --greens: #00CA99;
+ --black: #000000;
+}
+
+html {
+    box-sizing: border-box;
+    max-width: 100%;
+    overflow-x: hidden;
+   
+  
+
+}
+
+body{
+    font-family: 'DM Sans', sans-serif;
+}
+
+
+
+
+
+
+/* Navbar  */
+
+
+
+/*  Hero */
+
+
+
+/*  Sponsors */
+
+
+
+
+/* Leverage */
+
+
+
+
+/* Reach New */
+
+
+
+
+/* Increase Exposure  */
+
+
+
+
+
+/* Build Your Business */
+
+
+
+
+/* 14 Hours */
+
+
+
+
+
+
+/* Schedule a demo btn  */
+
+
+
+
+/* Words from our */
+
+
+
+/* How to get started  */
+
+
+
+
+/* Features & Benefits */
+
+
+
+
+/* Book your Demo */
+
+
+
+
+/* Footer  */
+
+
+
+
+
+
+@media only screen and (min-width:768px) {
+
+
+
+
+}
